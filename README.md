@@ -11,12 +11,14 @@ BetterCLS makes custom level selection scenes cleaner and has new features.
 - 커스텀 폴더
 - A ~ Z 키를 눌러 해당 알파벳으로 시작하는 곡으로 이동
 - Page Up / Page Down으로 이전/다음으로 이동
+- 그 외 잡다한거
 
 ## What's New
 - Favorites
 - Custom Folders
 - Press the A through Z keys to jump to songs starting with that letter
 - Page Up / Page Down to go back/next
+- Other miscellaneous
     
 
 ### 랭크 기준
