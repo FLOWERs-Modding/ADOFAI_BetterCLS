@@ -1,3 +1,6 @@
+[최신버전](https://github.com/FLOWERs-Modding/ADOFAI_BetterCLS/releases/)   
+[Latest version](https://github.com/FLOWERs-Modding/ADOFAI_BetterCLS/releases/)   
+
 # BetterCLS
 
 ![example](https://github.com/FLOWERs-Modding/BetterCLS/blob/master/ex.gif?raw=true)    
