@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterCLSMod", "BetterCLSMod\BetterCLSMod.csproj", "{3FADA6AD-5016-4DA3-A893-9BFD82ADE6A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterCLSUnity", "BetterCLSUnity\BetterCLSUnity.csproj", "{37667F4D-0669-4E7B-8FD6-66310BFE1054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FADA6AD-5016-4DA3-A893-9BFD82ADE6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FADA6AD-5016-4DA3-A893-9BFD82ADE6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FADA6AD-5016-4DA3-A893-9BFD82ADE6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FADA6AD-5016-4DA3-A893-9BFD82ADE6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37667F4D-0669-4E7B-8FD6-66310BFE1054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37667F4D-0669-4E7B-8FD6-66310BFE1054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37667F4D-0669-4E7B-8FD6-66310BFE1054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37667F4D-0669-4E7B-8FD6-66310BFE1054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
